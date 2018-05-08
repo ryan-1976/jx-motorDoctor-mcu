@@ -1,0 +1,7 @@
+node_modules/
+*.o
+*.crf
+*.d
+*.lnp
+*.lst
+*.htm
